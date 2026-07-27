@@ -1,6 +1,6 @@
 <div>interest</div>
 
-![](https://media.tenor.com/bhVEt__Nyu8AAAAM/vibe.gif)
+![dance](https://media.tenor.com/bhVEt__Nyu8AAAAM/vibe.gif)
 
 🌏Translate：
 [中文](https://github.com/ddk070/DDK070/tree/main) <br>
